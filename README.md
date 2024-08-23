@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Khan</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zkromeo&label=Profile%20views&color=0e75b6&style=flat" alt="zkromeo" /> </p>
-
 - 🔭 I’m currently working on **React Project**
 
 - 👯 I’m looking to collaborate on **Mern Stack Projects**
