@@ -35,7 +35,7 @@
 ## ⚡ Tech Stack
 
 ### 🚀 Frontend
-<p align="left">
+<p align="left flex">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
   <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
